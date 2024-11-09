@@ -43,7 +43,7 @@ __Check out my GitHub repository:__
 - Cyber
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,terraform,kali,kubernetes" />
+    <img src="https://skillicons.dev/icons?i=bash,terraform,ubuntu,kali,kubernetes" />
   </a>
 </p>
 - Artificial intelligence
@@ -76,7 +76,7 @@ __Check out my GitHub repository:__
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,linux,unity,blender,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,eclipse,postman,linux,unity,blender,arduino,idea" />
   </a>
 </p>
 

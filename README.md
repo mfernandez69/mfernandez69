@@ -49,7 +49,7 @@ __Check out my GitHub repository:__
 - Artificial intelligence
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,ai,pytorch" />
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   </a>
 </p>
 - Frontend

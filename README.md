@@ -37,7 +37,7 @@ __Check out my GitHub repository:__
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=kotlin,php,java,nodejs,py,spring,express,sequelize,cs,hibernate" />
+    <img  src="https://skillicons.dev/icons?i=kotlin,php,java,nodejs,py,spring,express,sequelize,prisma,cs,hibernate" />
   </a>
 </p>
 - Cyber

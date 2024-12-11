@@ -25,10 +25,10 @@ __Check out my GitHub repository:__
 <div>
   <p>
     <a href="https://github.com/mfernandez69/portaFolioGrupal.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfernandez69&repo=Geo-API&theme=gotham" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfernandez69&repo=portaFolioGrupal&theme=gotham" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/mfernandez69/springWeb.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfernandez69&repo=ConexionFireBase&theme=gotham" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=mfernandez69&repo=springWeb&theme=gotham" alt="GitHub Stats" />
     </a>
   </p>
 </div>

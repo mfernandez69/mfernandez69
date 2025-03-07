@@ -37,7 +37,7 @@ __Check out my GitHub repository:__
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img  src="https://skillicons.dev/icons?i=kotlin,php,java,nodejs,py,spring,express,sequelize,prisma,cs,hibernate" />
+    <img  src="https://skillicons.dev/icons?i=kotlin,php,java,nodejs,py,spring,express,sequelize,prisma,hibernate" />
   </a>
 </p>
 - Cyber
@@ -55,7 +55,7 @@ __Check out my GitHub repository:__
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=astro,js,react,svelte,tailwind" />
+    <img src="https://skillicons.dev/icons?i=astro,angular,nextjs,django,tailwind" />
   </a>
 </p>
 
@@ -69,14 +69,14 @@ __Check out my GitHub repository:__
 - Cloud Servers
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=azure,aws" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,eclipse,postman,linux,unity,blender,arduino,idea" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,eclipse,postman,linux,unity,blender,arduino,idea,jest" />
   </a>
 </p>
 
